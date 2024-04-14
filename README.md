@@ -30,10 +30,11 @@ This project is a simple implementation of the classic Tic Tac Toe game built us
 To run the Tic Tac Toe game locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine:
+`https://github.com/Gowtham0509/tic-tac-toe-using-react.git`
 2. Navigate to the project directory: 
-cd tic-tac-toe-react
+`cd tic-tac-toe-react`
 3. Install dependencies using npm:
-   npm install
+   `npm install`
 4. npm start
 
 This will run the app in the development mode.
