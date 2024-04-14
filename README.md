@@ -9,7 +9,6 @@ This project is a simple implementation of the classic Tic Tac Toe game built us
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
@@ -17,7 +16,6 @@ This project is a simple implementation of the classic Tic Tac Toe game built us
 - Two-player gameplay: Play against a friend locally.
 - Interactive UI: Responsive interface for easy gameplay on both desktop and mobile devices.
 - Win detection: Automatically detects when a player wins or when the game ends in a draw.
-- Reset functionality: Restart the game at any time to play again.
 
 ## Technology Stack
 
