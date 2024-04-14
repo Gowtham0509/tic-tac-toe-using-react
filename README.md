@@ -35,8 +35,7 @@ To run the Tic Tac Toe game locally on your machine, follow these steps:
 `cd tic-tac-toe-react`
 3. Install dependencies using npm:
    `npm install`
-4. npm start
-
+4. `npm run dev`
 This will run the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
